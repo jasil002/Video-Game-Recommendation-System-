@@ -1,4 +1,6 @@
- I've developed a personalized Video Game Recommendation System using using difflib and cosine_similarity likely involves comparing game descriptions or other textual features to provide recommendations. 
+Video Game Recommendation System
+
+I've developed a personalized Video Game Recommendation System using using difflib and cosine_similarity likely involves comparing game descriptions or other textual features to provide recommendations. 
  
  Here's an overview of the approach:
 
